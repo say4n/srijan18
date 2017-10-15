@@ -242,7 +242,6 @@ main {
 
 .content__title--filled {
 	background: var(--color-content);
-	padding: 0.25em 0.5em;
 }
 
 .content__title span {
